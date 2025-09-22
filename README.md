@@ -30,14 +30,14 @@
 
 ### 💰 **FinOps Foundation**
 <p align="center">
-  <a href="https://www.credly.com/badges/98eeaddc-f39f-4755-8038-4228c34ece01" target="_blank" title="🔧 FinOps Certified Engineer">
-    <img src="https://images.credly.com/images/0c9c8df8-2b48-4ac0-97c6-173e5762d8dc/image.png" alt="FinOps Certified Engineer" width="120" height="120"/>
+  <a href="https://www.credly.com/earner/earned/badge/98eeaddc-f39f-4755-8038-4228c34ece01" target="_blank" title="🔧 FinOps Certified Engineer">
+    <img src="https://images.credly.com/size/340x340/images/0c9c8df8-2b48-4ac0-97c6-173e5762d8dc/image.png" alt="FinOps Certified Engineer" width="120" height="120"/>
   </a>
   <a href="https://www.credly.com/earner/earned/badge/f11944f3-b603-48c1-8607-4a977eb0aee3" target="_blank" title="📊 FinOps Certified FOCUS Analyst">
-    <img src="https://images.credly.com/images/b7dc9a58-d569-45d7-9b06-c8eea0fa5a3d/image.png" alt="FinOps FOCUS Analyst" width="120" height="120"/>
+    <img src="https://images.credly.com/size/340x340/images/b7dc9a58-d569-45d7-9b06-c8eea0fa5a3d/image.png" alt="FinOps FOCUS Analyst" width="120" height="120"/>
   </a>
-  <a href="https://www.credly.com/badges/4418cf84-8c70-49e0-84d4-631c78fb38b7" target="_blank" title="🎯 FinOps Certified Practitioner">
-    <img src="https://images.credly.com/images/08c7db9f-6da3-4c56-a2bb-d39cb7f3a94e/image.png" alt="FinOps Practitioner" width="120" height="120"/>
+  <a href="https://www.credly.com/earner/earned/badge/4418cf84-8c70-49e0-84d4-631c78fb38b7" target="_blank" title="🎯 FinOps Certified Practitioner">
+    <img src="https://images.credly.com/size/340x340/images/08c7db9f-6da3-4c56-a2bb-d39cb7f3a94e/image.png" alt="FinOps Practitioner" width="120" height="120"/>
   </a>
 </p></div>
 
