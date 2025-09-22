@@ -30,7 +30,7 @@
 
 ### 💰 **FinOps Foundation**
 <p align="center">
-  <a href="https://www.credly.com/earner/earned/badge/98eeaddc-f39f-4755-8038-4228c34ece01" target="_blank" title="🔧 FinOps Certified Engineer">
+  <a href="https://www.credly.com/badges/98eeaddc-f39f-4755-8038-4228c34ece01" target="_blank" title="🔧 FinOps Certified Engineer">
     <img src="https://images.credly.com/size/340x340/images/0c9c8df8-2b48-4ac0-97c6-173e5762d8dc/image.png" alt="FinOps Certified Engineer" width="120" height="120"/>
   </a>
   <a href="https://www.credly.com/earner/earned/badge/f11944f3-b603-48c1-8607-4a977eb0aee3" target="_blank" title="📊 FinOps Certified FOCUS Analyst">
